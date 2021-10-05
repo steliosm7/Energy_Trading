@@ -19,3 +19,5 @@
 ```markdown
 
 ```
+
+![Renewables Image](/renewables-congress-1030x434.png)
