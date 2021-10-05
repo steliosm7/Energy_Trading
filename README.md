@@ -1,4 +1,4 @@
-## Stylianos Miliarakis - Energy Analyst
+## **Stylianos Miliarakis** - Energy Analyst
 
 ### Markdown
 
