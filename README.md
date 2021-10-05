@@ -9,21 +9,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+import urllib, json
+import requests
+import xlrd
 
-# Header 1
-## Header 2
-### Header 3
+from urllib import request
+# Define the remote file to retrieve
+remote_url = 'https://www.admie.gr/getOperationMarketFilewRange?dateStart=2021-8-01&dateEnd=2021-8-02&FileCategory=ISPWeekAheadLoadForecast'
+# Define the local filename to save data
+local_file = 'testfile.json'
+# Download remote and save locally
+request.urlretrieve(remote_url, local_file)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+with open('testfile.json') as json_file:
+    testfile = json.load(json_file)
+testfile
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
