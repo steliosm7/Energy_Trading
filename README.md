@@ -1,4 +1,4 @@
-**<font color="black">Stylianos </font> Miliarakis** - Energy Analyst
+**<font color="black">Stylianos Miliarakis </font>** - Energy Analyst
 
 ```markdown
 
