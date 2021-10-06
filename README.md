@@ -8,6 +8,4 @@
 
 ```
 
-![otaots](/otaots.png)
-
 ![Renewables Image](/renewables-congress-1030x434.png)
