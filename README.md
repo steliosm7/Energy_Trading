@@ -4,7 +4,7 @@
 
 ![mapportfolio](mapportfolio.png)
 
-**<font color="Blue"> Plot of ISPRequirements with the user choosing the date / though IPTO Api, pdf saving, automated email send </font>**
+**<font color="Blue"> Plot of ISPRequirements with the user choosing the date / though IPTO Api, JSON, pdf saving, automated email send </font>**
 
 ![ISPREQ](ISPRequirements.png)
 
