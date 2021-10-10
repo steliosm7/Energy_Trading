@@ -1,6 +1,6 @@
 **<font color="black"> Stylianos Miliarakis </font>** - Energy Analyst
 
-**<font color="Blue">Plot of DAMOTS with the user choosing the date / though ENEX Api, JSON, pdf saving, automated email send </font>**
+**<font color="Blue">Plot of DAMOTS with the user choosing the date / though ENEX Api, pdf saving, automated email send </font>**
 
 ![otsdam](DAMOTS.png)
 
