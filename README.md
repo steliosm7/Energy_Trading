@@ -6,8 +6,6 @@
 
 **<font color="Blue">Plot of ISPRequirements with the user choosing the date / though IPTO Api, JSON, pdf saving, automated email send </font>**
 
-![ISPREQ2](ISPRequirements.png)
-
  **<font color="Blue">Map of Portfolio Locations / Based on Technology through a CSV and Folium library </font>**
 
 ![mapportfolio](mapportfolio.png)
