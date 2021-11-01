@@ -1,8 +1,5 @@
 **<font color="black"> Stylianos Miliarakis </font>** - Energy Analyst
 
-<div style="display:none;">**<font color="Blue">Plot of DAMOTS Prediction through linear regression using ISP Requirements Forecast by IPTO </font>**</div>
-
-
 **<font color="Blue">Plot of DAMOTS with the user choosing the date / though ENEX Api, pdf saving, automated email send </font>**
 
 ![otsdam](DAMOTS.png)
